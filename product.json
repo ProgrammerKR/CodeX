@@ -1,0 +1,47 @@
+{
+	"nameShort": "CodeX",
+	"nameLong": "CodeX - Code Editor",
+	"applicationName": "CodeX",
+	"dataFolderName": ".codex-data",
+	"win32MutexName": "codex-mutex",
+	"licenseName": "MIT",
+	"licenseUrl": "https://github.com/ProgrammerKR/CodeX/blob/main/LICENSE.txt",
+	"serverLicenseUrl": "https://github.com/ProgrammerKR/CodeX/blob/main/LICENSE.txt",
+	"serverGreeting": [],
+	"serverLicense": [],
+	"serverLicensePrompt": "",
+	"serverApplicationName": "codex-server",
+	"serverDataFolderName": ".codex-server-data",
+	"tunnelApplicationName": "codex-tunnel",
+	"win32DirName": "CodeX",
+	"win32NameVersion": "CodeX",
+	"win32RegValueName": "CodeX",
+	"win32x64AppId": "{D77B7E06-80BA-4137-BCF4-654B95CCEBC5}",
+	"win32arm64AppId": "{D1ACE434-89C5-48D1-88D3-E2991DF85475}",
+	"win32x64UserAppId": "{CC6B787D-37A0-49E8-AE24-8559A032BE0C}",
+	"win32arm64UserAppId": "{3AEBF0C8-F733-4AD4-BADE-FDB816D53D7B}",
+	"win32AppUserModelId": "CodeX",
+	"win32ShellNameShort": "C-odeX",
+	"win32TunnelServiceMutex": "codex-tunnelservice",
+	"win32TunnelMutex": "codex-tunnel",
+	"darwinBundleIdentifier": "com.codex.editor",
+	"darwinProfileUUID": "47827DD9-4734-49A0-AF80-7E19B11495CC",
+	"darwinProfilePayloadUUID": "CF808BE7-53F3-46C6-A7E2-7EDB98A5E959",
+	"linuxIconName": "codex",
+	"licenseFileName": "LICENSE.txt",
+	"reportIssueUrl": "https://github.com/ProgrammerKR/CodeX/issues/new",
+	"nodejsRepository": "https://nodejs.org",
+	"urlProtocol": "codex",
+	"webviewContentExternalBaseUrlTemplate": "https://{{uuid}}.codex-cdn.net/insider/out/vs/workbench/contrib/webview/browser/pre/",
+	"builtInExtensions": [
+		{
+			"name": "codex-js-debug",
+			"version": "1.0.0",
+			"repo": "https://github.com/ProgrammerKR/codex-js-debug",
+			"metadata": {
+				"publisherName": "ProgrammerKR",
+				"displayName": "CodeX Debugger"
+			}
+		}
+	]
+}
